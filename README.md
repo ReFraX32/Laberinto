@@ -10,4 +10,4 @@ print("En el codigo quite todo lo que no era necesario y agregue el tda_pila.")
 - [x] Tambien agregue un docx para lo uses como base si te sirve
 - [ ] Igual seguro esta mal pero algo es algo
 
-> [Hace click aca si queres el editable del arbol](https://drive.google.com/file/d/1b4KNzNUN6Y4NnHDvd2FgS8e-Fr1J5waJ/view?usp=sharing)
+> [Hace click aca si queres el editable del arbol (Cuando hagas click tenes que tocar abrir con draw.io arriba a la derecha)](https://drive.google.com/file/d/1b4KNzNUN6Y4NnHDvd2FgS8e-Fr1J5waJ/view?usp=sharing)
